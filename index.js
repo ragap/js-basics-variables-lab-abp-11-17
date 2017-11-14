@@ -7,3 +7,5 @@ mostProfitableNeighborhood = 'Upper West Side';
 
 
 let companyCeo = 'Susan Smith';
+
+companyCeo ='Lauren Hart'
